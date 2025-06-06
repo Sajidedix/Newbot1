@@ -9,8 +9,8 @@ class Config(object):
     mongo_url = "mongodb+srv://chffdgf0:olpYdyMsXzEGXqS5@cluster0.ivpoxxi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     PHOTO_URL = ["https://envs.sh/gOG.jpg", "https://envs.sh/gOK.jpg", "https://envs.sh/gOz.jpg", "https://envs.sh/gO3.jpg"]
     SUPPORT_CHAT = "SandVillage"
-    UPDATE_CHAT = "lustxUpdate"
-    BOT_USERNAME = "lustXcatcherrobot"
+    UPDATE_CHAT = "Akatsuki_airelin"
+    BOT_USERNAME = "Alisachansvbot"
     CHARA_CHANNEL_ID = "-1002592320932"
     api_id = "20457610"
     api_hash = "b7de0dfecd19375d3f84dbedaeb92537"
