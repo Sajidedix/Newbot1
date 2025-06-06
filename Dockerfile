@@ -65,10 +65,10 @@ RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/FallenRobot
 RUN git clone https://github.com/Mynameishekhar/ptb /root/ptb
-WORKDIR /root/ptb
+WORKDIR /root/ptb "false
 
 
-ENV PATH="/home/bot/bin:$PATH"
+ENV PATH="/home/bot/bin:ptbTH"
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
