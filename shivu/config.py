@@ -2,9 +2,9 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = "7011990425"
+    OWNER_ID = "7657218453"
     sudo_users = ["6890857225", "7011990425", "6264760837", "5527022252", "6384484443", "1850686769"]
-    GROUP_ID = "-1002041586214"
+    GROUP_ID = "-1002746226173"
     TOKEN = "your bot token"
     mongo_url = "your db"
     PHOTO_URL = ["https://envs.sh/gOG.jpg", "https://envs.sh/gOK.jpg", "https://envs.sh/gOz.jpg", "https://envs.sh/gO3.jpg"]
