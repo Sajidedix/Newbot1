@@ -11,7 +11,7 @@ class Config(object):
     SUPPORT_CHAT = "lustsupport"
     UPDATE_CHAT = "lustxUpdate"
     BOT_USERNAME = "lustXcatcherrobot"
-    CHARA_CHANNEL_ID = "-1002023474262"
+    CHARA_CHANNEL_ID = "-1002592320932"
     api_id = "20457610"
     api_hash = "b7de0dfecd19375d3f84dbedaeb92537"
 
