@@ -12,8 +12,8 @@ class Config(object):
     UPDATE_CHAT = "Akatsuki_airelin"
     BOT_USERNAME = "Alisachansvbot"
     CHARA_CHANNEL_ID = "-1002592320932"
-    api_id = "20457610"
-    api_hash = "b7de0dfecd19375d3f84dbedaeb92537"
+    api_id = "10658015"
+    api_hash = "a0087bca748f86698c53d291c9e5b3af"
 
     
 class Production(Config):
